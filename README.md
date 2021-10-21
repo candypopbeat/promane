@@ -16,5 +16,5 @@ Laravelを使ったプロジェクト管理WEBアプリです。
 ## Demo Manager
 [promane.ryukyuhub.co.jp/login](https://promane.ryukyuhub.co.jp/login)
 
-- ID：manager
+- ID：manager@change.me
 - PASS：h3tc0xfm
