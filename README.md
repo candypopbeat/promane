@@ -13,9 +13,8 @@ Laravelを使ったプロジェクト管理WEBアプリです。
 
 - アクティブにメンバーやプロジェクトを切り替えできるようになっています
 
-## Demo
-[promane.ryukyuhub.co.jp](https://promane.ryukyuhub.co.jp)
+## Demo Manager
+[promane.ryukyuhub.co.jp/login](https://promane.ryukyuhub.co.jp/login)
 
 - ID：manager
-- PASS：
-- 実際にタスク追加やWiki追加編集OK
+- PASS：h3tc0xfm
